@@ -1,7 +1,7 @@
 # Java Database Capstone: Smart Clinic Management System
 
 ## Overview
-This is the capstone project for the [IBM Java Developer Certification Course on Coursera](https://www.coursera.org/professional-certificates/ibm-full-stack-software-developer). It is a healthcare application that manages doctors, patients, appointments, and prescriptions using a Java/Spring Boot backend and a relational database. The project showcases my skills in building scalable backend solutions with REST APIs and front-end integration, relevant for enterprise roles like Solutions Architect or Android Developer.
+This is the capstone project 
 
 ## Features
 - **Java Backend**: Implements logic for managing healthcare data using Spring Boot.
